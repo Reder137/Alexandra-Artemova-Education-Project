@@ -1,0 +1,5 @@
+﻿  test01.cpp
+C:\Users\ab424\source\repos\test01\test01\test01.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\ab424\source\repos\test01\test01\test01.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\ab424\source\repos\test01\test01\test01.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  test01.vcxproj -> C:\Users\ab424\source\repos\test01\Debug\test01.exe
