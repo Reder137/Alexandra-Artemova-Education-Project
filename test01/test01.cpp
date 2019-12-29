@@ -13,6 +13,7 @@ class menu
     string end;
     string back;
     string choice;
+    int number;
 
 public:
     menu()
